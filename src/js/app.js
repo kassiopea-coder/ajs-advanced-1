@@ -12,4 +12,3 @@ export default function orderByProps(objectSort, arrSort = []) {
   }
   return result;
 }
-
